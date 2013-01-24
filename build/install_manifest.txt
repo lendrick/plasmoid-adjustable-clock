@@ -1,0 +1,3 @@
+/usr/lib64/kde4/plasma_applet_adjustableclock.so
+/usr/share/kde4/apps/adjustableclock/themes.xml
+/usr/share/kde4/services/plasma-applet-adjustableclock.desktop

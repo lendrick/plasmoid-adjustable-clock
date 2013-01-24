@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+521ac9357f46f023c66e26de267b67d1 applet/CMakeFiles/plasma_applet_adjustableclock_automoc
+8b3925e1b0289bbf71a8658953545562 applet/CMakeFiles/uninstall
+c42569f0ee6e2d5142d62ad876bdbf63 applet/qrc_resources.cxx
+aba9d1cfa14163dd8f02b0110a4d922f applet/ui_appearance.h
+aa526337dde9a58958794c90c1c36826 applet/ui_clipboard.h
+81d908e88bf529fd3f08f7269f5b41f9 applet/ui_placeholder.h
