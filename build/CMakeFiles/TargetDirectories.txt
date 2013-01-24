@@ -1,3 +1,0 @@
-/home/user/adjustable-clock/plasmoid-adjustable-clock/build/applet/CMakeFiles/plasma_applet_adjustableclock.dir
-/home/user/adjustable-clock/plasmoid-adjustable-clock/build/applet/CMakeFiles/plasma_applet_adjustableclock_automoc.dir
-/home/user/adjustable-clock/plasmoid-adjustable-clock/build/applet/CMakeFiles/uninstall.dir
